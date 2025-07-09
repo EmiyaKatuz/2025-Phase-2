@@ -678,3 +678,10 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/reactnative,dotnetcore,visualstudio,visualstudiocode
+/Part3/data_preprocessed/tensor_test.pt
+/Part3/data_preprocessed/tensor_train.pt
+/Part3/data_preprocessed/tensor_val.pt
+/Part3/data_preprocessed/index_to_label.pt
+/Part3/data_preprocessed/label_to_index.pt
+/Part3/data_preprocessed/labels_train.pt
+/Part3/data_preprocessed/labels_val.pt
